@@ -1,6 +1,9 @@
+## Forked version
 
+我 (**refraction-ray**) 将额外加入一些各处收集到的关于天河二号系统的相关技术资料，放到 [materials](materials) 文件夹。
 
 ## [Wiki](https://github.com/JiangLiNSCC/TH2-demos/wiki)
+
 在线的，易于修改的天河二号的使用文档。
 
 **此resp将会被移除，有使用上的问题请直接联系[技术支持邮箱 : techsupport@nscc-gz.cn ]**
